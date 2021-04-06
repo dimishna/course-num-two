@@ -2,4 +2,4 @@
 testing new functional 
 ## hello
 
-it is markdown in this repository
+it is markdown file in this repository
